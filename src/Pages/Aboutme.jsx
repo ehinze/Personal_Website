@@ -10,7 +10,7 @@ export default function Aboutme() {
                     <div className="flex items-center justify-between px-4 py-3 md:px-6 max-w-screen-xl mx-auto">
                         <div className="flex items-center gap-3">
                             <img
-                                src="/images/IMG_0338.JPG"
+                                src="/Personal_Website/images/IMG_0338.JPG"
                                 className="h-10 border-2 rounded-xl"
                                 alt="my picture"
                             />
@@ -96,7 +96,7 @@ export default function Aboutme() {
 
                 <section className="text-center mb-10">
                     <img
-                        src="/images/IMG_0311.JPG"
+                        src="/Personal_Website/images/IMG_0311.JPG"
                         alt="Profile"
                         className="w-40 h-40 rounded-full object-cover mx-auto mb-4"
                     />
@@ -128,19 +128,19 @@ export default function Aboutme() {
                     <h2 className="text-2xl font-semibold text-gray-800">Things I Love When I am not Coding</h2>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-4">
                         <div className="text-center">
-                            <img src="/images/dance.jpg" alt="Photography" className="h-32  rounded-sm object-cover mx-auto mb-2" />
+                            <img src="/Personal_Website/images/dance.jpg" alt="Photography" className="h-32  rounded-sm object-cover mx-auto mb-2" />
                             <p className="text-lg text-gray-700">Dancing</p>
                         </div>
                         <div className="text-center">
-                            <img src="/images/reading (2).jpg" alt="Reading" className="rounded-sm object-cover  h-32 mx-auto mb-2" />
+                            <img src="/Personal_Website/images/reading (2).jpg" alt="Reading" className="rounded-sm object-cover  h-32 mx-auto mb-2" />
                             <p className="text-lg text-gray-700">Reading </p>
                         </div>
                         <div className="text-center">
-                            <img src="/images/travel.jpg" alt="Travel" className=" h-32 object-cover rounded-sm  mx-auto mb-2" />
+                            <img src="/Personal_Website/images/travel.jpg" alt="Travel" className=" h-32 object-cover rounded-sm  mx-auto mb-2" />
                             <p className="text-lg text-gray-700">Traveling</p>
                         </div>
                         <div className="text-center">
-                            <img src="/images/braids.jpg" alt="Travel" className=" h-32 object-cover rounded-sm mx-auto mb-2" />
+                            <img src="/Personal_Website/images/braids.jpg" alt="Travel" className=" h-32 object-cover rounded-sm mx-auto mb-2" />
                             <p className="text-lg text-gray-700">Braiding</p>
                         </div>
                     </div>
@@ -152,7 +152,7 @@ export default function Aboutme() {
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-8 mt-4">
                         <div className="text-center">
                             <a href="https://react.dev/" >
-                                <img src="/images/react.svg" class="h-32 mx-auto mb-2" alt="Flowbite Logo" />
+                                <img src="/Personal_Website/images/react.svg" class="h-32 mx-auto mb-2" alt="Flowbite Logo" />
                                 <p className="text-lg text-gray-700">React</p>
                             </a>
                         </div>
@@ -177,7 +177,7 @@ export default function Aboutme() {
                         </div>
                         <div className="text-center">
                             <a href="https://vite.dev/" >
-                                <img src="/vite.svg" alt="Vite Logo" class="h-32 bg-gray-200 mx-auto mb-2" />
+                                <img src="/Personal_Website/vite.svg" alt="Vite Logo" class="h-32 bg-gray-200 mx-auto mb-2" />
                                 <p className="text-lg text-gray-700">Vite</p>
                             </a>
                         </div>

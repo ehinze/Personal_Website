@@ -15,7 +15,7 @@ export default function About() {
                     <p className="text-2xl font-semibold text-gray-200 dark:text-white mb-2">Frontend Web Developer | React</p>
                     <p className="text-2xl font-semibold text-gray-200 dark:text-white mb-6">Personal Blog – Code, Life & Growth</p>
                     <img
-                        src="/images/SIU_4438.JPG"
+                        src="/Personal_Website/images/SIU_4438.JPG"
                         alt="Profile"
                         className="w-48 h-48 object-cover rounded-full shadow-lg mt-4"
                     />
